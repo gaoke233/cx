@@ -20,7 +20,7 @@ const musicList = [
   },
   {
     name: "No room at the inn",
-    url: "https://lv-sycdn.kuwo.cn/fc8c5c485b2299b408e9829c456177db/676c28a3/resource/30106/trackmedia/M500003UPhZx11FcTx.mp3?bitrate$128&from=vip",
+    url: "https://files.freemusicarchive.org/storage-freemusicarchive-org/music/ccCommunity/TRG_Banks/TRG_Banks_Christmas_Album/TRG_Banks_-_12_-_No_room_at_the_inn.mp3",
   },
 ];
 /**
